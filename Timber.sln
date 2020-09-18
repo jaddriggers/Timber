@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Timber", "Timber.vcxproj", "{8C6ABA71-09F8-4EAB-B381-1C63A4D93879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6ABA71-09F8-4EAB-B381-1C63A4D93879}.Debug|x64.ActiveCfg = Debug|x64
+		{8C6ABA71-09F8-4EAB-B381-1C63A4D93879}.Debug|x64.Build.0 = Debug|x64
+		{8C6ABA71-09F8-4EAB-B381-1C63A4D93879}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C6ABA71-09F8-4EAB-B381-1C63A4D93879}.Debug|x86.Build.0 = Debug|Win32
+		{8C6ABA71-09F8-4EAB-B381-1C63A4D93879}.Release|x64.ActiveCfg = Release|x64
+		{8C6ABA71-09F8-4EAB-B381-1C63A4D93879}.Release|x64.Build.0 = Release|x64
+		{8C6ABA71-09F8-4EAB-B381-1C63A4D93879}.Release|x86.ActiveCfg = Release|Win32
+		{8C6ABA71-09F8-4EAB-B381-1C63A4D93879}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A98D1B3-54E6-4DE3-9F55-B9562AAF06D4}
+	EndGlobalSection
+EndGlobal
