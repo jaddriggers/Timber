@@ -1,5 +1,3 @@
-//Beginning C++ Game Programming 2nd Edition Packt.com by John Horton
-
 #include <SFML/Graphics.hpp>
 
 using namespace sf;
@@ -7,8 +5,6 @@ using namespace sf;
 int main()
 
 {
-	//Chapter 1-C++, SFML, Visual Studio,and Starting the First Game
-
 	VideoMode vm(1920, 1080);
 
 	RenderWindow window(vm, "Timber!!!", Style::Fullscreen);
